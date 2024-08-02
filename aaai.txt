@@ -1,0 +1,70 @@
+Full Name*
+Savita Ram Asole
+Passbook Name*
+Savita Ram Asole
+Relationship*
+
+D/O
+Relative Name*
+Praatapsingh Ghaansaamsingh Tak 
+Mobile No.*
+8007666309
+Successdone
+Age*
+45
+Caste Category*
+
+GENERAL
+Gender*
+
+Female
+Farmer Type*
+
+Small
+Farmer Category*
+
+Owner
+Residential Details
+State*
+
+MAHARASHTRA
+District*
+
+Akola
+Sub-District*
+
+Telhara
+Residential Village/ Town*
+
+Sirsoli
+Address*
+at post mundgoan tal akot dist akola
+Pin Code*
+444117
+Farmer ID
+ID Type*
+
+UID
+UID No*
+3408-8978-0216
+Successdone
+Account Details
+Do you have IFSC
+
+IFSC*
+CBIN0281884
+Successdone
+State*
+
+MAHARASHTRA
+District*
+
+Akola
+Bank Name*
+Central Bank Of India
+Bank Branch Name*
+MUNDGAON
+Savings Bank A/C No.*
+3151364215
+Confirm Savings Bank A/C No.*
+3151364215
